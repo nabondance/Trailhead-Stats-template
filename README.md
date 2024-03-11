@@ -1,2 +1,2 @@
-# Trailhead-Stats-template
-Template to quickstart the use of Trailhead-Stats
+<!--TH_Stats:start-->
+<!--TH_Stats:end-->
